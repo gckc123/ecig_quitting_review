@@ -1,0 +1,21 @@
+Study,Treat1_Quitted,Treat1_N,Treat2_Quitted,Treat2_N,Treat1,Treat2,logRR,seRR,analysis1,analysis2,analysis3,analysis4
+Bullen et al (2013),3,73,21,289,control,Nicotine EC,0.569942902,0.603153001,1,1,1,1
+Bullen et al (2013),17,295,21,289,NRT,Nicotine EC,0.231857762,0.315582856,1,1,1,1
+Bullen et al (2013),3,73,17,295,control,NRT,0.33808514,0.612428283,1,1,1,1
+Caponnetto et al (2013),4,100,13,100,control,Nicotine EC,1.178654996,0.554006387,1,1,1,1
+Carpenter et al (2017),1,22,2,21,control,Nicotine EC,0.739667196,1.186139286,1,1,0,0
+Hajek et al (2019),44,446,79,438,NRT,Nicotine EC,0.60335826,0.175670837,1,1,1,1
+Masiero et al (2017),6,70,15,70,control,Nicotine EC,0.916290732,0.452506248,1,1,1,1
+Lee et al (2019),21,75,16,75,NRT,Nicotine EC,-0.271933715,0.288881258,1,1,1,1
+"Anthenelli, et al. (2016)",106,1009,187,1013,control,NRT,0.5637,0.1131,1,1,1,1
+"Cunningham, et al. (2016)",5,499,14,500,control,NRT,1.027617415,0.517131089,1,1,1,1
+"Cheung, et al. (2019)",8,50,8,50,control,NRT,0,0.458257569,1,1,0,0
+"Fraser, et al. (2014)",139,516,151,518,control,NRT,0.078937427,0.099741038,1,1,1,1
+"Heydari, et al. (2012)",6,91,23,92,control,NRT,1.332805676,0.433919752,1,0,0,1
+"Lerman, et al. (2015)",50,408,69,418,control,NRT,0.297869241,0.172190095,1,1,1,1
+"Scherphof, et al. (2014)",8,129,6,136,control,NRT,-0.340524554,0.525891422,1,1,1,1
+"Tonnesen, et al. (2012)",9,161,44,318,control,NRT,0.906318039,0.352820846,1,0,0,1
+"Tuisku, et al. (2016)",13,86,19,94,control,NRT,0.290542136,0.327549158,1,1,1,1
+Halpern et al (2018),1,813,12,1199,control,Nicotine EC,2.096394604,1.039840994,1,1,1,1
+Halpern et al (2018),1,813,8,1588,control,NRT,1.409942009,1.059783122,1,1,1,1
+Halpern et al (2018),8,1588,12,1199,NRT,Nicotine EC,0.686452595,0.454829179,1,1,1,1
